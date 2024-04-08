@@ -2,7 +2,7 @@
 $server="localhost";
 $user="root";
 $password="";
-$dbname="produto";
+$dbname="estoque";
 
 try {
     $conn=mysqli_connect($server,$user,$password,$dbname);
